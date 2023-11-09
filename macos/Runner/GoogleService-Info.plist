@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDR2l4Z4z0Yi6z5M_Sczn-teS-obnUR0uw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>980826776293</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tricykolMobile.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>trycikol</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trycikol.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:980826776293:ios:7a51f145518bd2b7e6aa0c</string>
+</dict>
+</plist>
